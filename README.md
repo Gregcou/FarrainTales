@@ -1,2 +1,2 @@
 # FarrainTales
-Small RPG
+The basics of a small RPG
