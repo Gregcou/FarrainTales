@@ -160,7 +160,7 @@ MonoBehaviour:
   diaManager: {fileID: 0}
   dialogueLines:
   - Thank you for defeating the monsters
-  - Now i can live happily in my empty house with no doors to the outside
+  - Now i can live happily in my empty house
   - 'Don''t question it  '
   currentLine: 0
   totalLines: 3
